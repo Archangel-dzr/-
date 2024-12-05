@@ -1,12 +1,13 @@
 '''
 Author: Archangel 781446156@qq.com
 Date: 2024-12-05 14:49:44
-LastEditTime: 2024-12-05 15:52:44
+LastEditTime: 2024-12-05 16:07:40
 LastEditors: Archangel 781446156@qq.com
 Description:  
-FilePath: \C\test.py
+FilePath: \自动化测试\test.py
 Copyright (c) 2024 by Archangel email: 781446156@qq.com, All Rights Reserved. 
 '''
+
 from selenium import webdriver
 from selenium.webdriver.edge.service import Service
 from selenium.webdriver.edge.options import Options as EdgeOptions
